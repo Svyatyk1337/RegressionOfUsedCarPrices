@@ -16,7 +16,7 @@ In this project, I used the dataset from the "Regression of Used Car Prices" com
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebooks
+- Jupyter Notebook
 
 ## Dataset
 The dataset contains information on used cars, such as car make, model, year, mileage, and price. The goal is to predict the price of a used car based on these features.
